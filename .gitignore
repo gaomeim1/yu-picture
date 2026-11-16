@@ -1,6 +1,16 @@
 ### @author <a href="https://github.com/liyupi">程序员鱼皮</a> ###
 ### @from <a href="https://codefather.cn">编程导航学习圈</a> ###
 
+### 本地临时文件与运行产物 ###
+.temp/
+dump.rdb
+login-qrcode.png
+codefather-login-page.png
+codefather-login-qr.png
+gmm-space-analyze.png
+前端工程师.json
+yu-picture-frontendgmm/
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
